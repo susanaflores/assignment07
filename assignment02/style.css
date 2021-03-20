@@ -22,10 +22,8 @@
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
-    text-align: left;
-}
-.logo{
-    padding-left: 200px;
+    background-color: white;
+    text-align: center;
 }
 
 .logo-title a{
@@ -45,22 +43,19 @@ img{
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: x-large;
-    height: auto;
-    text-shadow: 2px 2px red;
-    
 } 
 
 .logo-image img{
-    margin-top: 25px;
+    margin-top: 0px;
     height: 100px;
+
 }
 
 .nav-bar h2{
     color: black;
-    margin-left: 100px;
     margin-right: 0;
     text-decoration-line: underline;
+    text-align: center;
     
 }
 
