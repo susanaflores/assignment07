@@ -24,6 +24,8 @@ h1{
     color: black;
     background-color: white;
     text-align: center;
+    padding: 10px;
+    margin: 15px;
 }
 
 .logo-title a{
@@ -56,6 +58,8 @@ img{
     margin-right: 0;
     text-decoration-line: underline;
     text-align: center;
+    padding: 10px;
+    margin: 15px;
     
 }
 
@@ -121,7 +125,7 @@ img{
 }
 
 .citation{
-    padding-left: 500px;
+    text-align: center;
 }
 
 .citation p{
