@@ -1,33 +1,9 @@
-# Dms290-CityWebsite
+# Assignment 7: Legibility, Readability, and Typography
+### Susana Flores
 
-A simple webpage description of Nairobi City. Improvements Coming Soon!
+- Website Used: URL: [Nairobi](http://lkoblenc.digitalscholar.rochester.edu/assignment02/index.html)
 
-Index Page:
+- Fonts currently in use: Georgia, 'Times New Roman', Times, serif
 
-- Removed background image to improve readiability 
-
-- Changed text color to improve legibility 
-
-- removed erroneous href link to improve usability 
-
-- underlined href link to about for improved usability 
-
-- Increased text size for information source for legibility 
-
-- Centered it on index page and underlined/bold link for usability
-
-- Centered title and logo for increased readability
- 
-
-About Page:
-
-- Underlined and centered Home Page link for increased usability
-
-- Removed background image to improve legibility 
-
-- Added data to "alt" attributes for images for usability
-
-- Changed text color for increased legibility 
-
-- Changed background color for increased readability
-
+----------------------------------------------------------------------------------
+### Changes Made
